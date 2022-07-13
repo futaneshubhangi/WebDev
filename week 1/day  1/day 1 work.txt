@@ -1,0 +1,21 @@
+1] Exploring Android
+
+2] Open Handset Alliance
+
+3] Ecosystem of Android
+
+4] Introduction to github
+
+5] login to github
+
+6] learn github command -git -v
+                        mkdir ITGP
+                        git init
+                        git status
+                        git status
+                        git  add .
+                        git config --global user.name "futaneshubhangi"
+                        git config --global user.email "shubhangifutane059@gmail.com"
+                        git commit -m"add file"
+                        
+                        

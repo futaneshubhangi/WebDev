@@ -1,0 +1,18 @@
+h3{
+    color: blue;
+}
+body{
+     background-image: url("image/image.jpg");
+     background-repeat: no-repeat;
+     background-size: covers;
+}
+@media(min-width:568px){
+    #name{
+        color:blue;
+    }
+}
+.temp{
+    height: 200px;
+    background-color:blanchedalmond;
+    margin: 70px;
+}
