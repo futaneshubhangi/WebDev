@@ -1,0 +1,21 @@
+h3{
+    color: purple;
+
+}
+body{
+    background-image: url("image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+@media(min-width:568px){
+    #name{
+        color: brown;
+
+    }
+}
+.temp{
+    height: 200px;
+    background-color: white;
+    margin: 70;
+}
