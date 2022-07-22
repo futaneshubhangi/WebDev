@@ -1,7 +1,7 @@
 const navbar = () => {
     return(
         <>
-        <nav className="navbar navbar-expand-lg navbar-light bg-light shadow p-3 mb-5 bg-body rounded">
+        <nav className="navbar navbar-expand-lg navbar-dark bg-dark shadow p-3 mb-5 ">
   <div className="container-fluid">
     <a className="navbar-brand" href="#">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_QxaPONTvqu5GH2RuVYkI2s2MozucbY23Q8oplxKC8w&s" ></img>CWIPEDIA</a>
@@ -9,7 +9,7 @@ const navbar = () => {
       <span className="navbar-toggler-icon"></span>
     </button>
     <div className="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul className="navbar-nav me-auto mb-2 mb-lg-0">
+      <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
       
         
        

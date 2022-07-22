@@ -9,7 +9,8 @@ const Header = () => {
     <div class="container">
         <div class="row">
             <div class="col">
-                <Lottie animationData={anim} loop={true} />
+                <Lottie animationData={anim} loop={true}  />
+
 
 
             </div>
